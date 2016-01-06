@@ -1,5 +1,5 @@
 # NFC Spy
-
+2016年01月04日
 NFC Spy is an Android app, It can watch APDUs transceived between reader and contactless smart card.
 
 The latest version will be published in https://play.google.com/store/apps/details?id=com.sinpo.nfcspy
